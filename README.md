@@ -11,9 +11,9 @@ I'm Aastha Sharma,a passionate Java Developer with a strong foundation in data s
 -Version Control:Git
 
 ## Projects
-1.Pharmacy Management System(https://github.com/Aasthaasharma/Pharmacy-Management-System.git)\
-2.MyNotes()\
-3.Job Portal Website(https://github.com/Aasthaasharma/Job_Portal.git)\
+1.Pharmacy Management System(https://github.com/Aasthaasharma/Pharmacy-Management-System.git) \
+2.MyNotes() \
+3.Job Portal Website(https://github.com/Aasthaasharma/Job_Portal.git) \
 4.Grocery Website(https://github.com/Aasthaasharma/Grocery_Website-.git)
 
 ## Learning Journey
