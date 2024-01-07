@@ -22,7 +22,7 @@ I'm Aastha Sharma,a passionate Java Developer with a strong foundation in data s
 
 ## Let's Connect
 
--LinkedIn:https://www.linkedin.com/in/aasthasharma5\
+-LinkedIn:https://www.linkedin.com/in/aasthasharma5 \
 -Email:itsaastha36@gmail.com
 
 Feel free to explore my projects and join me on this coding adventure!
