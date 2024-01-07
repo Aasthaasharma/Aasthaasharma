@@ -3,7 +3,7 @@
 I'm Aastha Sharma,a passionate Java Developer with a strong foundation in data structures and algorithms. 
 
 ## Technologies and Tools
--Languages:Java(Core and Advanced),C(Basic)__
+-Languages:Java(Core and Advanced),C(Basic)\
 -Frameworks:Spring,Bootstrap
 -Frontend: HTML,CSS,JavaScript,React
 -Database: MySQL
