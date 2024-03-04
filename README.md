@@ -12,7 +12,7 @@ I'm Aastha Sharma,a passionate Java Developer with a strong foundation in data s
 
 ## Projects
 1.Pharmacy Management System(https://github.com/Aasthaasharma/Pharmacy-Management-System.git) \
-2.MyNotes() \
+2.MyNotes(https://github.com/Aasthaasharma/E_Notes) \
 3.Job Portal Website(https://github.com/Aasthaasharma/Job_Portal.git) \
 4.Grocery Website(https://github.com/Aasthaasharma/Grocery_Website-.git)
 
