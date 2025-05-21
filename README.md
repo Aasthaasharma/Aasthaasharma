@@ -5,7 +5,7 @@ I'm Aastha Sharma,a passionate Java Developer with a strong foundation in data s
 ## Technologies and Tools
 -Languages:Java(Core and Advanced),C(Basic)\
 -Frameworks:Spring,Bootstrap\
--Frontend: HTML,CSS,JavaScript,React\
+-Frontend: HTML,CSS,JavaScript\
 -Database: MySQL\
 -IDE:VS Code,Eclipse,Netbeans,IntelliJ IDEA\
 -Version Control:Git
